@@ -1,5 +1,5 @@
 /*  Chapter 2 - Exercise 6
-        What does the code do? */
+        What does the code do?  */
 #include <stdio.h>
 
 int main()
