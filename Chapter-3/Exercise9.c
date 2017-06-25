@@ -12,7 +12,6 @@ int main(void)
     printf("3. 12,258, 23 = %i\n", next_multiple(12258, 23));
     printf("4. 996,4 = %i\n", next_multiple(996,4));
 
-
 }
 
 int next_multiple(i, j)
